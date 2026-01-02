@@ -410,10 +410,14 @@ git checkout -b <branch-name> <commit>
 ### Undo Last Push (if no one pulled)
 ```bash
 git reset --hard HEAD~1
-git push --force
+git push --force-with-lease
 ```
 
-**⚠️ Warning: Use force push with caution!**
+**⚠️ Warning: Use force push with extreme caution!**
+- `--force-with-lease` is safer than `--force` as it checks if the remote branch has been updated by someone else
+- Only use force push if you're absolutely certain no one else has pulled your changes
+- Force pushing can overwrite other contributors' work and cause data loss
+- Never force push to shared/public branches
 
 ---
 

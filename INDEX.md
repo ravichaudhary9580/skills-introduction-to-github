@@ -145,8 +145,9 @@ Consider bookmarking:
 ### 📥 Downloading
 You can clone this repository to have offline access:
 ```bash
-git clone https://github.com/ravichaudhary9580/skills-introduction-to-github.git
+git clone https://github.com/username/repository-name.git
 ```
+Replace `username` and `repository-name` with the actual repository details.
 
 ### 🔗 Sharing
 Share specific resources with friends:

@@ -82,10 +82,12 @@ I'm a passionate developer learning GitHub and building awesome projects!
 1. Create a new repository with the same name as your GitHub username
 2. Add a `README.md` file to that repository
 3. Copy this template and customize it with your information
-4. Replace `yourusername` with your actual GitHub username
+4. **IMPORTANT:** Replace `yourusername` with your actual GitHub username in ALL places (appears in multiple locations for stats, trophies, and links)
 5. Add your personal links and information
 6. Commit and push the changes
 7. Your profile README will appear on your GitHub profile!
+
+**Note:** The GitHub stats cards, top languages chart, and trophies widgets all require you to replace `yourusername` with your actual GitHub username for them to display correctly.
 
 ## Customization Tips
 
