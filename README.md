@@ -59,6 +59,47 @@ Branches allow you to separate your work from the `main` branch. In other words,
 
 6. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
 
+## Additional Learning Resources 📚
+
+This repository includes comprehensive learning materials to help you master GitHub:
+
+### 📖 [PROFILE.md](PROFILE.md)
+A comprehensive profile README template that covers:
+- Key GitHub concepts explained
+- Best practices for commits, branching, and collaboration
+- Useful GitHub features overview
+- Quick reference commands
+- Learning goals and resources
+
+### 📘 [GITHUB_LEARNING_GUIDE.md](GITHUB_LEARNING_GUIDE.md)
+Complete guide from beginner to advanced:
+- Git vs GitHub explained
+- Getting started and setup
+- Core concepts in depth
+- Real-world workflow examples
+- Advanced features and troubleshooting
+- Security best practices
+
+### ⚡ [GIT_QUICK_REFERENCE.md](GIT_QUICK_REFERENCE.md)
+Quick command reference for daily use:
+- All essential Git commands organized by category
+- Setup and configuration
+- Branching and remote operations
+- Useful aliases and tips
+- GitHub CLI commands
+- Emergency recovery commands
+
+### 💡 [PRACTICAL_EXAMPLES.md](PRACTICAL_EXAMPLES.md)
+Real-world scenarios and examples:
+- Starting different types of projects
+- Contributing to open source step-by-step
+- Team collaboration workflows
+- Problem-solving scenarios
+- Release management
+- Best practices in action
+
+These resources complement the interactive GitHub Skills course and provide a comprehensive reference for your GitHub journey!
+
 <footer>
 
 <!--
